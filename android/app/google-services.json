@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758158143280",
+    "firebase_url": "https://eainventory-2730f.firebaseio.com",
+    "project_id": "eainventory-2730f",
+    "storage_bucket": "eainventory-2730f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758158143280:android:bf841595f3fe438455a2f5",
+        "android_client_info": {
+          "package_name": "xyz.engineersarena.credo_inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758158143280-68mka4qjq3mckf6jik220915bkfem2ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwJAAfy3-ms-KN5-bXvsfL6DBQ4THPSHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758158143280-68mka4qjq3mckf6jik220915bkfem2ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
